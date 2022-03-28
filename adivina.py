@@ -15,5 +15,3 @@ while (intento <= 5
         intento += 1
 if not gane:
     print('\n perdiste :(\n El número era: {}'.format(num_aleatorio))
-
-    
