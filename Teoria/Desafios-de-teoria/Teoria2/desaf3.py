@@ -1,4 +1,5 @@
 nota = int(input(" Ingresa una nota (-1 para finalizar"))
+lista_de_notas = []
 while nota != -1:
     lista_de_notas.append(nota)
     nota = int(input(" Ingresa una nota (-1 para finalizar"))
