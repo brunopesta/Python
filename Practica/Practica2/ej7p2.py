@@ -9,7 +9,7 @@ def prueba():
     heterograma = True
     for n in range(len(frase)):
         for j in range(len(frase[n])):
-            if frase[n][j ] not in dop:
+            if frase[n][j] not in dop:
                 dop.append(frase[n][j])
             else:
                 heterograma = False
