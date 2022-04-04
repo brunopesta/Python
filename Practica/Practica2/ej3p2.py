@@ -1,4 +1,4 @@
-from cgi import test
+
 
 
 text = "Julian jugaba a la pelota muy mal entonces le pegaron pero eso no uqiere decir que nosotrs tengamos que ser tan malos para llegar a seguir pegandole"
